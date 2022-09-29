@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestCase/Checklist.iml" filepath="$PROJECT_DIR$/TestCase/Checklist.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTestPlan/MyTestPlan.iml" filepath="$PROJECT_DIR$/MyTestPlan/MyTestPlan.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCase/TestCase.iml" filepath="$PROJECT_DIR$/TestCase/TestCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPlan.iml" filepath="$PROJECT_DIR$/TestPlan.iml" />
     </modules>
   </component>
 </project>
